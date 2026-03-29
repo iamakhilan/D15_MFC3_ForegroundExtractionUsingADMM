@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-red.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Optimized-blueviolet.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📖 Introduction
 ### Purpose of the Project
